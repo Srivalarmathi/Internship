@@ -1,0 +1,9 @@
+{
+    "Model": "Linear Regression",
+    "MSE": 847570459.82,
+    "Features": [
+        "Marketing_Spend",
+        "Seasonality"
+    ],
+    "Rows Used": 500
+}
